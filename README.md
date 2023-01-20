@@ -1,4 +1,4 @@
-### Hi I´m mahtdev
+### Hi! I am mahtdev
 
 I am a highly experienced software developer with over 14 years in the industry. I specialize in full-stack development utilizing the following technologies:
 
