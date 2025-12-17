@@ -4,12 +4,10 @@
 I am a highly experienced software developer with over 14 years in the industry. I specialize in full-stack development utilizing the following technologies:
 
 <ul>
-  <li>Java</li>
-  <li>C#</li>
+  <li>Java</li>  
   <li>Ruby</li>
   <li>Node.js</li>
-  <li>Ruby on Rails</li>
-  <li>Angular</li>
+  <li>Ruby on Rails</li>  
   <li>Spring</li>
   <li>React</li>
 </ul>
@@ -22,12 +20,10 @@ I am passionate about solving complex problems and am dedicated to staying up to
 Soy un desarrollador de software con más de 14 años de experiencia en el campo. Mi especialidad es el desarrollo full-stack y he trabajado con las siguientes tecnologías:
 
 <ul>
-  <li>Java</li>
-  <li>C#</li>
+  <li>Java</li>  
   <li>Ruby</li>
   <li>Node.js</li>
-  <li>Ruby on Rails</li>
-  <li>Angular</li>
+  <li>Ruby on Rails</li>  
   <li>Spring</li>
   <li>React</li>
 </ul>
